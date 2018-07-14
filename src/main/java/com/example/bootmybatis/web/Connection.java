@@ -8,4 +8,11 @@ package com.example.bootmybatis.web;
  */
 public class Connection {
     //新建类，测试提交到GitHub
+    private String url;
+
+    private String userName;
+
+    private String password;
+
+    private String driver;
 }
